@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Preparing for Kickstarter"
-date: 2014-09-04 22:05:53 -0400
+date: 2014-09-07 22:05:53 -0400
 comments: true
 categories: ptfgames
 ---
 
-With Past to Future Games' initial Kickstarter on launch, we have the following issues to address.  
+With [Past to Future Games' initial Kickstarter][kickstart] on launch, we have the following issues to address.  
 
 + Reduce landing page loading time
 + Increase traffic to site or kickstarter page.
@@ -16,7 +16,7 @@ With Past to Future Games' initial Kickstarter on launch, we have the following 
 Reducing load times
 ===================
 
-For our tests, we'll use Pingdom's speedtest tool. In Mid August, we ran some speed tests on the home page. Prior to August 10, some of the loading times was averaging in 5 seconds.
+For our tests, we'll use [Pingdom's speedtest tool][pingdom]. In Mid August, we ran some speed tests on the home page. Prior to August 10, some of the loading times was averaging in 5 seconds.
 
 {% img center /images/ptfgames/webanalysis/pingdom-august-14.png 545 183 'image' 'images' %}
 
@@ -40,3 +40,6 @@ We setup the site with Nginx and a Memcache, and on a separate instance. Even th
 {% img center /images/ptfgames/webanalysis/loadtime-dallas.png 869 353 'Pingdom Loadtimes - Dallas' 'pingdom dallas loadtime' %}
 
 Hopefully we'll get enough visitors to the site to actually need this.
+
+[kickstart]: https://www.kickstarter.com/projects/phil-domo/dark-empire
+[pingdom]: http://tools.pingdom.com/fpt/
