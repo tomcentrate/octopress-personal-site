@@ -1,0 +1,9 @@
+# Site navigation links
+
+- title: About
+  url: /about
+  excerpt:
+  image:
+
+- title: Articles
+  url: /articles
