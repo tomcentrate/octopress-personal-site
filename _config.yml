@@ -1,39 +1,28 @@
-# Site wide configuration
-
-title: 'Tomcentrate'
-description: 'High anxiety programming'
-logo: apple-touch-icon-120x120.png # 120x120 px default image used for Twitter summary card
-teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
+# Site settings
+title: Tommy Lee
+email: tommy@tommylee.co
+description: Developing with a human-oriented architecture
+url: "http://tommylee.co" # the base hostname & protocol for your site
 locale: en-US
-url:
+timezone: America/New_York
 
-# Jekyll configuration
-
-sass:
-    sass_dir: _sass
-    # style: compressed
-permalink: articles/:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-mentions
   - jemoji
   - jekyll-redirect-from
+  - jekyll-paginate
 
+# Build settings
+markdown: kramdown
+paginate: 5
 
-# Site owner
-owner:
-  name: Tommy Lee
-  email: tommy.t.lee@gmail.com
-  twitter: tomcentrate
-  google:
-    ad-client:
-    ad-slot:
-  bio: Putting the 'human' back in 'humanoid business solutions automaton'
-  avatar: bio-photo.png # 160x160 px image for author byline
-disqus-shortname: tomcentrate
+# About/contact
+author:
+  name:              Tommy Lee
+  url:               https://twitter.com/mdo
+  email:             tommy@tommylee.co
 
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+# Custom vars
+version:             1.0.0

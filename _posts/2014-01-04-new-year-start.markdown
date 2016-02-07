@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: post
 title:  "A New Start"
 date:   2014-01-05 00:01:00
 categories: personal
+permalink: :date
 ---
 
 With the second year of the Horse approaching, I have decided to do a blog for a New Years resolution. We have a lot of plans in store for this year. 

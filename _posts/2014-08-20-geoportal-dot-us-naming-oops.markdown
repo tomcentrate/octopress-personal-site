@@ -1,9 +1,9 @@
 ---
-layout: article
+layout: post
 title: "Geoportal.us: Possible Naming Confusion"
 date: 2014-08-20 22:00:53 -0400
 comments: true
-categories: projects
+categories: project
 ---
 
 Lauren had a great idea for a project. We are making a simple, curated search / browse filled with GIS information. We'll categorize the information by location, region, type of information, source, and all that juicy metadata. 

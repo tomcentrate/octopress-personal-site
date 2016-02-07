@@ -1,13 +1,8 @@
 ---
-layout: article
-title: "On Getting Excited About New Programming Stuff"
-modified:
+layout: post
+title: "Programming Learning Slumps"
+modified: 2016-02-04T13:04:03-05:00
 categories: personal
-tags: []
-image:
-  feature:
-  teaser:
-  thumb:
 date: 2015-08-23T22:52:22-04:00
 ---
 

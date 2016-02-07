@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  "New Boys In Town"
 date:   2014-03-05 00:01:00
 categories: personal

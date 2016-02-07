@@ -1,9 +1,9 @@
 ---
-layout: article
+layout: post
 title: "One Man Development Team"
 date: 2015-09-07 22:05:53 -0400
 comments: true
-categories: projects
+categories: project
 ---
 
 I recently picked up a small project over the weekend. With the promise to myself to launch an MVP by week's end, I needed to have a solid system down that worked well enough.
