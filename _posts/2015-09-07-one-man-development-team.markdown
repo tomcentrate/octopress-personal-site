@@ -39,7 +39,7 @@ I don't want to mess around with small details, like User Authentication and Aut
 
 For the front-end sections, I'm looking to find a better way to build interfaces. Right now I'm just grabbing Javascript plugins for search boxes and autocompletes, and its working out okay for an MVP.
 
-[tbash]: http://teebash.co
+[tbash]: http://tbash.co
 [waffleio]: http://waffle.io
 [codeship]: http://codeship.com
 [rorpodcast]: http://5by5.tv/rubyonrails
