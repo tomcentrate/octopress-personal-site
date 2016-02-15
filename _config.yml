@@ -1,6 +1,7 @@
 # Site settings
 title: Tommy Lee
 email: tommy@tommylee.co
+github: http://github.com/tomcentrate
 description: Developing with a human-oriented architecture
 url: "http://tommylee.co" # the base hostname & protocol for your site
 locale: en-US

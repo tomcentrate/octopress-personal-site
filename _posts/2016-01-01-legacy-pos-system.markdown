@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Data Driven Restaurant Business Production"
 date:   2016-01-01 00:01:00
 categories: project
@@ -29,6 +29,8 @@ And Overall, the menu should shrink down to 60 items overall, including take out
 
 We're using an outdated Point-of-Sales System Software, Champion POS, which I think is now defunct.
 Champion POS used an old MySQL database. There was some encoding problems involved with the SQL dump.
+
+We have 
 ```
 
 ```
