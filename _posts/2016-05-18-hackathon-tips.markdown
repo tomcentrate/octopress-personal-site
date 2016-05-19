@@ -63,7 +63,8 @@ You're a person who can come up with a bunch of ideas, and they're cheap to thin
 
 > Leave enough for the imagination
 
-Some may disagree with this idea, and that's okay. 
+Some may disagree with this idea, and that's okay.
+
 ### Use the Throwaway Jokes
 
 I use my time at Hackathons to learn new things, or build a slightly interesting idea. This reduces the amount of personal risk to my ego when my awesome idea gets shot down due to poor execution.
