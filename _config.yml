@@ -10,6 +10,9 @@ url: "http://tommylee.co" # the base hostname & protocol for your site
 locale: en-US
 timezone: America/New_York
 
+
+permalink: none
+
 highlighter: rouge
 gems:
   - jekyll-sitemap
