@@ -11,9 +11,12 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    <span class="post-meta">
+      <span class="post-date">{{ post.date | date_to_string }}</span> |
+      <span class="post-history">
+        <a class="revision-history" href="{{ site.github_edit_post_repo }}/commits/master/{{ post.path }}" target="_blank">View revision history</a>
+      </span>
+    </span>
     {{ post.content }}
   </div>
   {% endfor %}
