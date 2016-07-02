@@ -3,9 +3,10 @@ layout: post
 title:  "Environmental Variables for AngularJS"
 date:   2016-02-10 04:01:00
 categories: tutorials
+crosspost_to_medium: true
 ---
 
-When it came time to setup deploys for our AngularJS application, we had a few areas in our Services that had hard-coded API keys into the application. A lot of guides online have different ways of incorporating ng-constant into the build process. At [Fresh Lines], I work on a lot of server-side projects. I'm comfortable with a standard convention for my configurations, like a /config folder to store environment based settings. 
+When it came time to setup deploys for our AngularJS application, we had a few areas in our Services that had hard-coded API keys into the application. A lot of guides online have different ways of incorporating ng-constant into the build process. At [Fresh Lines], I work on a lot of server-side projects. I'm comfortable with a standard convention for my configurations, like a /config folder to store environment based settings.
 
 This particular setup is based on [onefootball]'s guide, and mirrors closely to how some server side frameworks have handled their environmental variables.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Tips for Having a great Hackathon Experience"
 date:   2016-05-18 00:00:00
 categories: personal
+crosspost_to_medium: true
 ---
 
 I recently participated in a few hackathons and hack nights this year. They are a great experience for developing a lot of interesting ideas in a short amount of times. It's extremely rewarding to get a product out the door over a weekend, or even a night.
