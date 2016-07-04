@@ -6,6 +6,7 @@ category: tutorials
 
 This is a somewhat short primer on the different roles that are needed to produce business software. I wrote this as a way to explain to friends and family what people do.
 
+Included are a list of 
 
 ### Caveats
 
@@ -20,10 +21,10 @@ This is a somewhat short primer on the different roles that are needed to produc
 
 We can split up a piece of modern software into 4 distinct areas:
 
-* Design
-* Front-end / Mobile
-* Back-end
-* Server
+* [Design](#design)
+* [Front-end / Mobile](#frontend)
+* [Back-end](#backend)
+* [Server](#server)
 
 Many tech people have some skill in each of these sections. It's very common to have skills in an adjacent section.
 
@@ -33,7 +34,8 @@ Many tech people have some skill in each of these sections. It's very common to 
 
 Many developers are a 'Jack of all Trades', but have a mastery in one or two sections.
 
-## Design
+
+## <a name="design"></a> Design
 
 ![Web Designer](/images/web_primer/web-designer.jpg)
 
@@ -71,7 +73,8 @@ In modern applications, there is a need for applications to work intuitively and
 More information: [What does a UX Designer actually do?](https://www.sitepoint.com/ux-designer-actually/)
 
 
-## Front-end
+## <a name="frontend"></a> Front-end
+
 
 The front-end is the customer-facing part of a software. Users will interact with the front end. There has been a growing demand for front-end developers with the advent of mobile apps and web applications.
 
@@ -143,8 +146,9 @@ In single page applications, when a user clicks something, responses are usually
 *Coming Soon* :exclamation:
 
 ## Back-end
+<a name="backend"></a>
 
-The back-end handles all the processing of actions from a user. This covers any number of actions. Usually a Back-end involves a server of some kind. Any big functional areas
+The back-end handles all the processing of actions from a user. This covers any number of actions. Usually a Back-end involves a server of some kind. Back-end 
 
 ### Backend Developer Skills
 
@@ -161,6 +165,7 @@ The back-end handles all the processing of actions from a user. This covers any 
 * an MVC Framework in their language of choice
 * Understanding of Server architecture
 * Knows the basic workings of their preferred tech stack.
+* Automation and process
 
 ### Tech Stack
 
@@ -229,7 +234,7 @@ Each part is interchangeable, but there are a usual set of common pairings.
 | Python     |         | nginx   | Django         | Postgres   |  
 
 ## Server
-
+<a name="server"></a>
 *Coming Soon* :exclamation:
 
 
