@@ -3,6 +3,7 @@ layout: post
 title:  "Finishing your blog posts"
 date:   2016-07-02 00:00:00
 categories: personal
+crosspost_to_medium: true
 ---
 
 I have about 10-15 half-finished ideas and blog posts. Each of these ideas take off in full force! Full of passion and enthusiasm, the words and ideas come easily.
