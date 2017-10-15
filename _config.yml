@@ -15,7 +15,7 @@ timezone: America/New_York
 permalink: none
 
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-mentions
   - jemoji
