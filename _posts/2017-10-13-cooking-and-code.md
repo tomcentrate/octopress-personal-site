@@ -77,5 +77,16 @@ Some recommendations we have for others:
 * Divide the labor
 * Set measurable goals
 
+
+## Cook and Code Schedule Template
+
+We follow the following time-line for most cook and codes.
+
+* 11:00 AM - Event Start and meal prep and cook. Social time and people get together.
+* 11:30 AM - Start coding. Waiting until the food is ready.
+* 02:00 PM - Food is served.
+* 03:00 PM - Clean up.
+
 We have another cook and code coming up soon. We usually keep it small so that the group can work together well. While we can divide up the cooking for just one person, working together on the recipe lets everyone share in the experience.
+
 
