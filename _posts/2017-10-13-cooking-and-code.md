@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cooking and Coding Together"
+title:  "Cook and Code 1: Cooking and Coding Together"
 date:   2017-10-13 00:00:00
 categories: meetup
 ---

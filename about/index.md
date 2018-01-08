@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 modified: 2015-08-29T22:52:22-04:00
 ads: false
 ---
