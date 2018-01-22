@@ -82,7 +82,7 @@ items.each do |group_type, item|
 
   if group_type == 'posts'
     content_items = Post.where(id: ids).to_ary
-  elif group_type == 'comments'
+  elsif group_type == 'comments'
     content_items = Comment.where(id: ids).to_ary
   end
 
