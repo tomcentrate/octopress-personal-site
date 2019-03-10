@@ -5,9 +5,22 @@ modified: 2016-05-20T22:52:22-04:00
 ads: false
 description: A non-exhaustive list of projects that I have been a part of publicly.
 ---
-This is a list of projects that I've been involved with publicly and want to share. A lot of other projects are on my github. Feel free to check them out!
+This is a list of projects that I've been involved with publicly and want to share. A lot of other projects are on my github. Feel free to check them out.
 
-## Digital Wave
+# Current Projects
+
+Currently I have the following up and running.
+
+## Friendship CRM
+
+It's management, on friendship! Originally used so that I have a better way of keeping track of different relationships and people in my life, so I can be more responsive and better. Started out as a prototype made in [AirTable](https://airtable).
+
+#### Current Goals
+
+
+# Archived Projects
+
+### Digital Wave
 * [Github](https://github.com/mickmuzac/digitalwave)
 * [DevPost Page](http://devpost.com/software/digital-wave)
 
