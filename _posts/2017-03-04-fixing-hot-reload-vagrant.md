@@ -3,6 +3,7 @@ layout: post
 title:  "Fixing Hot Reloads on Vagrant"
 date:   2017-03-04 00:01:00
 categories: tutorials
+description: Ran into issues with Hot Reloads in VMs created on vagrant. Used the following methods to try to get it to work properly.
 ---
 
 One of the common issues that I've run into virtualizing my development environments is having to restart my server manually.

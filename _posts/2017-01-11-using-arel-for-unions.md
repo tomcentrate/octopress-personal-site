@@ -3,6 +3,7 @@ layout: post
 title:  "Sorting between multiple Models in Ruby on Rails"
 date:   2017-01-12 00:01:00
 categories: tutorials
+description: This is a tutorial on using UNION in your queries in Rails. We structure a simple UNION query into Arel Components so that we can leverage the database to do sorting.
 ---
 
 Recently, I ran into a situation where I had two different Models where I needed to display both types of records in chronological order. We could grab all the records, and apply a simple sort.

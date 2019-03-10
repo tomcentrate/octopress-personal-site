@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Cook and Code 2: Ribs"
-date:   2017-10-13 00:00:00
+title:  "Cook and Code 2: Cooking Ribs"
+date:   2018-01-13 00:00:00
+image: https://tommylee.co/images/cook_and_code_2/ribs_on_plate.jpg
 categories: meetup
+description: 2nd Cook and Code with some tasty ribs!
 ---
 
 ![Cook and Code 2](/images/cook_and_code_2/group_selfie.jpg)
 
-As we make this a monthly tradition, we expanded to having another member. This time around, we had Dmytro Malikov from Accenture come along.
+As we make this a monthly tradition, we expndeda to having another member. This time around, we had DmytNro Malikov from Accenture come along.
 
 ## Dish of the day: Apple flavored Baby Back Ribs
 
