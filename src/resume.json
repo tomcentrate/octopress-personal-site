@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Tommy Lee",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "tommy@tommylee.co",
+    "phone": "(407) 541-7718",
+    "website": "http://tommylee.co",
+    "summary": "Software engineer with over 8 years of experience with backend web development. Experienced with developing the full stack web applications on Linux environments.",
+    "location": {
+      "city": "Winter Park",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "tomcentrate",
+        "url": "https://github.com/tomcentrate"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Entertainment Benefits Group",
+      "position": "Tech Lead",
+      "startDate": "2019-12-15",
+      "summary": "Leading a team of 7 developers in a Kanban environment. Promoted from Web Application Developer",
+      "highlights": []
+    },
+    {
+      "company": "Entertainment Benefits Group",
+      "position": "Web Application Developer",
+      "website": "http://entertainmentbenefits.com",
+      "startDate": "2017-12-15",
+      "endDate": "2019-12-15",
+      "summary": "",
+      "highlights": [
+        "Developed web applications and features in eCommerce, primarily using PHP and Javascript",
+        "Built tools and automated processes to help transition team from svn to git. Started converting Virtual Machine based environments to Docker containers.",
+        "Pushed for changes and processes that improve quality of code."
+      ]
+    },
+    {
+      "company": "Fresh Lines",
+      "position": "Software Engineer",
+      "website": "http://frshlns.com",
+      "startDate": "2014-11-02",
+      "endDate": "2017-12-01",
+      "summary": "Built web and mobile applications in a small (2-4) consultancy. Worked with multiple clients with frequently changing priorities.",
+      "highlights": [
+        "Mentored junior developers, and guided through onboard process. Performed code reviews",
+        "Main engineer for Ruby on Rails codebase of a Child Care services client. Utilized  Developed reports in T-SQL and Business Objects, and created integrations to connect SQL Server client data warehouse with intranet tools.",
+        "Developed migration strategies for legacy PHP 5 projects to be compatible with PHP 7",
+        "Finished a fishing line calculator app built in Objective C.",
+        "Migrated Ruby on Rails projects from Rails 3.2 to Rails 4.2",
+        "Built a copyright and brand search tool using Angular 1.5. Consumed third party APIs and built an aggregate search engine."
+      ]
+    },
+    {
+      "company":"RGI Marketing Group, Inc.",
+      "position": "Web Developer / IT",
+      "website": "http://www.rgimarketing.com/",
+      "startDate": "2012-09-10",
+      "endDate": "2014-11-01",
+      "summary": "Built Web applications with PHP MVC Frameworks like CodeIgniter and FuelPHP. Built mobile applications using PhoneGap. Created and modified sites built on Wordpress.",
+      "highlights": [
+        "Integrated time-tracking software with in-house project management system. Saved 2 hours of time-tracking each pay period.",
+        "Migrated dedicated server infrastructure to a virtualized KVM environments on Centos and Debian servers. "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Orlando Cook and Code",
+      "position": "Co-Organizer",
+      "startDate": "2017-10-04",
+      "summary": "Started a recreational weekend meetup focused on Cooking together and Coding side projects.",
+      "highlights": []
+    },
+    {
+      "organization": "Open Code Orlando",
+      "startDate": "2017-02-04",
+      "summary":"At a Careers Workshop: Helped developers improve their portfolio through one-on-one critiques.",
+      "highlights": []
+    },
+    {
+      "organization": "Code for Orlando",
+      "startDate": "2016-06-01",
+      "endDate": "2016-09-01",
+      "summary": "Contributed to the One Person, One Tree iOS app.",
+      "highlights": []
+    },
+    {
+      "organization": "SPS at UCF",
+      "position": "NetAdmin",
+      "startDate": "2012-12-01",
+      "endDate": "2013-12-01",
+      "summary": "Rebuilt website and setup forms and pages for Regional Event held at UCF. Occasional content management.",
+      "highlights": [
+        "Nominated for SPS Award for Outstanding Student"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Central Florida",
+      "area": "Computational Physics",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2013-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "PHP",
+        "MySQL",
+        "Javascript",
+        "Bash",
+        "Ruby",
+        "CSS",
+        "Node.js",
+        "HTML",
+        "T-SQL",
+        "Git"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Ruby on Rails",
+        "Rspec",
+        "React.js",
+        "Cypress.io",
+        "Laravel"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Amazon AWS",
+        "Jenkins",
+        "Docker",
+        "Ansible",
+        "Capistrano",
+        "Nagios"
+      ]
+    },
+    {
+      "name":"Mobile Development",
+      "level": "Apprentice",
+      "keywords": [
+        "iOS",
+        "Swift",
+        "Objective C"
+      ]
+    }
+  ]
+}
