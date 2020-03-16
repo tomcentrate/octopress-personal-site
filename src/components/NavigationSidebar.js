@@ -4,7 +4,7 @@ import { Link } from "gatsby";
 export default props => <div className="sidebar">
     <nav className="sidebar-nav">
         <div className="sidebar-item"><p>Software development for Everyone else</p></div>
-        <Link className="sidebar-nav-item" to="/about">About Me</Link>
+        <Link className="sidebar-nav-item" to="/resume">Resume</Link>
         <Link className="sidebar-nav-item" to="/projects">Projects</Link>
         <Link className="sidebar-nav-item" to="/blog">Blog</Link>
         <span className="sidebar-nav-item">Outer Links</span>
