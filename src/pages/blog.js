@@ -2,7 +2,7 @@ import React from "react";
 import MainContainer from "../components/MainContainer";
 import { graphql, Link } from "gatsby";
 
-export default ({data}) => {
+const Blog = ({data}) => {
     return (<MainContainer>
         <div>
             {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -19,6 +19,7 @@ export default ({data}) => {
     </MainContainer>)
 }
 
+export default Blog
 export const query = graphql`
   query {
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {

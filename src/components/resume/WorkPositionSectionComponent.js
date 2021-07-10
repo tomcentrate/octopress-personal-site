@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../../pages/resume.module.css";
-export default ({job}) =>
-    <section className={styles.item}>
+export default function WorkPositionSectionComponent(job) {
+    return <section className={styles.item}>
         <header>
             <h3>{job.company ?? job.organization ?? "Unknown"}</h3>
         </header>
@@ -15,3 +15,4 @@ export default ({job}) =>
             })}
         </ul>
     </section>
+}

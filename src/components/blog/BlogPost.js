@@ -1,6 +1,6 @@
 import React from "react";
 
-export default ({children, date, dangeroushtml}) => {
+function BlogPost(children, date, dangeroushtml) {
     return (<article className="post">
         {children}
         <span className="post-meta">
@@ -9,3 +9,5 @@ export default ({children, date, dangeroushtml}) => {
         <div dangerouslySetInnerHTML={{__html: dangeroushtml }} />
     </article>)
 }
+
+export default BlogPost

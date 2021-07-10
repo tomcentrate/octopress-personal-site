@@ -3,7 +3,7 @@ import MainContainer from "../components/MainContainer";
 import {graphql} from "gatsby";
 import BlogPost from "../components/blog/BlogPost";
 
-export default ({data}) => {
+const IndexPage = ({data}) => {
     return (
         <MainContainer>
 
@@ -16,6 +16,8 @@ export default ({data}) => {
         </MainContainer>
     )
 }
+
+export default IndexPage
 
 
 export const query = graphql`

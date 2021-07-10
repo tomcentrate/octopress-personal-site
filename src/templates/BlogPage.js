@@ -2,7 +2,7 @@ import React from "react";
 import { graphql } from "gatsby"
 import MainContainer from "../components/MainContainer";
 import BlogPost from "../components/blog/BlogPost";
-export default ({data}) => {
+const BlogPage = ({data}) => {
     const post = data.markdownRemark
     return (
         <MainContainer>
@@ -11,6 +11,8 @@ export default ({data}) => {
         </MainContainer>
     )
 }
+
+export default BlogPage
 
 export const query = graphql`
   query($slug: String!) {

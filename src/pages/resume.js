@@ -3,7 +3,7 @@ import ResumeData from "../resume";
 import styles from "./resume.module.css";
 import WorkPositionSectionComponent from "../components/resume/WorkPositionSectionComponent";
 
-export default () => {
+const ResumePage =  () => {
     const resume = ResumeData;
     return (
         <div className={styles.resume}>
@@ -69,3 +69,5 @@ export default () => {
         </div>
     );
 }
+
+export default ResumePage
