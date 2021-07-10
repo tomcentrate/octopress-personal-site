@@ -3,10 +3,10 @@ import MainContainer from "../components/MainContainer";
 import {graphql} from "gatsby";
 import BlogPost from "../components/blog/BlogPost";
 
+
 const IndexPage = ({data}) => {
     return (
         <MainContainer>
-
             {data.allMarkdownRemark.edges.map(({ node }) => {
                 return (
                 <BlogPost title={node.frontmatter.title} date={node.frontmatter.date} dangeroushtml={node.html}>
@@ -18,7 +18,6 @@ const IndexPage = ({data}) => {
 }
 
 export default IndexPage
-
 
 export const query = graphql`
   query {

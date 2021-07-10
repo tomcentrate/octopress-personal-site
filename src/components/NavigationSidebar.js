@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 
-function NavigationBar(props) {
+function NavigationBar({props}) {
     return <div className="sidebar">
         <nav className="sidebar-nav">
             <div className="sidebar-item"><p>Software development for Everyone else</p></div>

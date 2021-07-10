@@ -1,6 +1,6 @@
 import React from "react";
 
-function BlogPost(children, date, dangeroushtml) {
+function BlogPost({children, date, dangeroushtml}) {
     return (<article className="post">
         {children}
         <span className="post-meta">

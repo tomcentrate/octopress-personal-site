@@ -1,23 +1,23 @@
 import React from "react";
 import ResumeData from "../resume";
-import styles from "./resume.module.css";
+import {resumeStyle, heading, contact_detail, skills, skills_item, skills_item_name, skills_item_keywords, item_dates } from "./resume.module.css";
 import WorkPositionSectionComponent from "../components/resume/WorkPositionSectionComponent";
 
-const ResumePage =  () => {
+const ResumePage = () => {
     const resume = ResumeData;
     return (
-        <div className={styles.resume}>
-            <section className={styles.heading}>
+        <div className={resumeStyle}>
+            <section className={heading}>
                 <header>
                     <h1>{resume.basics.name}</h1>
                     <div className="contact">
-                        <span className={styles.contact_detail}>
+                        <span className={contact_detail}>
                             {resume.basics.email}
                         </span>
-                        <span className={styles.contact_detail}>
+                        <span className={contact_detail}>
                             {resume.basics.phone}
                         </span>
-                        <span className={styles.contact_detail}>
+                        <span className={contact_detail}>
                             {resume.basics.website}
                         </span>
                     </div>
@@ -26,13 +26,13 @@ const ResumePage =  () => {
             <section className="summary">
                 <p>{resume.basics.summary}</p>
             </section>
-            <section className={styles.skills}>
+            <section className={skills}>
                 {resume.skills.map(({ name, keywords }) => (
-                    <div className={styles.skills_item}>
-                        <div className={styles.skills_item_name}>
+                    <div className={skills_item}>
+                        <div className={skills_item_name}>
                             {name}
                         </div>
-                        <div className={styles.skills_item_keywords}>
+                        <div className={skills_item_keywords}>
                             {keywords.join(', ')}
                         </div>
                     </div>
@@ -56,8 +56,8 @@ const ResumePage =  () => {
                     return (
                         <div className="item">
                             <header><h3 className="name">{school.institution}</h3></header>
-                            <span className={styles.item_dates}>{school.startDate}</span>
-                            <span className={styles.item_dates}> - {school.endDate ?? "Present"}</span>
+                            <span className={item_dates}>{school.startDate}</span>
+                            <span className={item_dates}> - {school.endDate ?? "Present"}</span>
                             <div className="qualification">
                                 <span className="studyType">{school.studyType}</span>
                                 <span className="area"> - {school.area}</span>

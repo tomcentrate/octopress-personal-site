@@ -1,18 +1,20 @@
 import React from "react";
-import styles from "../../pages/resume.module.css";
-export default function WorkPositionSectionComponent(job) {
-    return <section className={styles.item}>
+import {item, item_position, item_dates, item_highlights} from "../../pages/resume.module.css";
+function WorkPositionSectionComponent({job}) {
+    return <section className={item}>
         <header>
             <h3>{job.company ?? job.organization ?? "Unknown"}</h3>
         </header>
-        <span className={styles.item_position}>{job.position}</span>
-        <span className={styles.item_dates}>{job.startDate}</span>
-        <span className={styles.item_dates}> - {job.endDate ?? "Present"}</span>
+        <span className={item_position}>{job.position}</span>
+        <span className={item_dates}>{job.startDate}</span>
+        <span className={item_dates}> - {job.endDate ?? "Present"}</span>
         <div className="summary">{job.summary}</div>
-        <ul className={styles.item_highlights}>
+        <ul className={item_highlights}>
             {job.highlights.map((highlight) => {
                 return (<li>{highlight}</li>)
             })}
         </ul>
     </section>
 }
+
+export default WorkPositionSectionComponent

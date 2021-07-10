@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 
-function Masthead(data) {
+function Masthead({data}) {
     return <div className="masthead">
         <div className="container">
             <h3 className="masthead-title">
