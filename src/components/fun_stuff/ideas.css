@@ -1,0 +1,39 @@
+.main_content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.idea_box {
+    padding: 2px;
+}
+.idea {
+    padding: 5px;
+    border-radius: 3px;
+    --give-up-color: #eee;
+    --start-color: #aaa;
+    --end-color: #111;
+    transition: color 2s, border-bottom-color 2s, border-left-color 2s, border-right-color 2s, border-top-color 2s;
+    border: 2px solid var(--start-color);
+    color: var(--start-color);
+}
+
+.career {
+    --end-color: green;
+}
+
+.personal {
+    --end-color: purple;
+}
+
+.relationship {
+    --end-color: red;
+}
+
+.abandoned {
+    --start-color: var(--give-up-color);
+}
+
+.completed {
+    --start-color: var(--end-color);
+}

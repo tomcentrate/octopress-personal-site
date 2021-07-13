@@ -1,0 +1,165 @@
+[
+  {
+    "idea": "Learn to Play Guitar",
+    "type": "educational",
+    "completed": true
+  },
+  {
+    "idea": "Get my First Girlfriend",
+    "type": "relationship",
+    "completed": true
+  },
+  {
+    "idea": "Study to Be an Accountant",
+    "type": "career",
+    "abandoned": true
+  },
+  {
+    "idea": "Learn the accordion",
+    "type": "educational",
+    "abandoned": true
+  },
+  {
+    "idea": "Create my First Youtube Video",
+    "type": "personal",
+    "completed": true
+  },
+  {
+    "idea": "Dump First Girlfriend",
+    "type": "relationship",
+    "completed": true
+  },
+  {
+    "idea": "Graduate High School",
+    "type": "career",
+    "completed": true
+  },
+  {
+    "idea": "Get into a University",
+    "type": "career",
+    "completed" : true,
+    "abandoned": false
+  },
+  {
+    "idea": "Become a Film Major",
+    "type": "career",
+    "abandoned": true
+  },
+  {
+    "idea": "Become a Business Major",
+    "type": "career",
+    "abandoned": true
+  },
+  {
+    "idea": "Become a Physics Major",
+    "type": "career",
+    "completed": true
+  },
+  {
+    "idea": "Visit Seattle",
+    "type": "travel",
+    "completed": true
+  },
+  {
+    "idea": "Be with Dream Girl",
+    "type": "relationship",
+    "completed": true
+  },
+  {
+    "idea": "Get my Degree",
+    "type": "career",
+    "completed": true
+  },
+  {
+    "idea": "Marry Dream Girl",
+    "type": "relationship",
+    "abandoned": true
+  },
+  {
+    "idea": "Go Back out on First Date",
+    "type": "relationship",
+    "completed": true
+  },
+  {
+    "idea": "Buy a House",
+    "type": "personal",
+    "completed": true
+  },
+  {
+    "idea": "Find a Partner",
+    "type": "relationship"
+  },
+  {
+    "idea": "Get Married",
+    "type": "relationship"
+  },
+  {
+    "idea": "Have a Child",
+    "type": "relationship"
+  },
+  {
+    "idea": "Get A Promotion"
+  },
+  {
+    "idea": "Learn to Salsa Dance"
+  },
+  {
+    "idea": "Be 220 Lbs",
+    "type": "health"
+  },
+  {
+    "idea": "Be Under 200 Lbs",
+    "type": "health"
+  },
+  {
+    "idea": "Learn Spanish",
+    "type": "educational",
+    "completed": true
+  },
+  {
+    "idea": "Learn Mandarin"
+  },
+  {
+    "idea": "Learn to Play Guitar"
+  },
+  {
+    "idea": "Go to a Soccer Game",
+    "type": "travel",
+    "completed": true
+  },
+  {
+    "idea": "Go to a Football Game",
+    "type": "travel"
+  },
+  {
+    "idea": "Find a Therapist",
+    "type": "personal",
+    "completed": true
+  },
+  {
+    "idea": "Visit New York",
+    "type": "travel",
+    "completed": true
+  },
+  {
+    "idea": "Visit Italy",
+    "type": "travel"
+  },
+  {
+    "idea": "Visit Grand Canyon",
+    "type": "travel"
+  },
+  {
+    "idea": "Go on a Cruise",
+    "type": "travel"
+  },
+  {
+    "idea": "Get Senior Position",
+    "type": "career",
+    "completed": true
+  },
+  {
+    "idea": "Get Managerial Position",
+    "type": "career"
+  }
+]
